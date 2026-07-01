@@ -17,3 +17,11 @@ The "new_design.csv" file contains the descriptor values of 94 new compounds des
 ## the .hin files
 
 The "hin" folder contains the hin file format of the newly designed compounds during the experiment. From this, the structural formulas of the compounds can be obtained, and this file is utilized in the subsequent descriptor calculations.
+
+## partition
+
+The "partition" folder contains 50 sets of random seed values for the divisions.
+
+## nonlinear-data
+
+The "nonlinear-data" folder contains all the descriptor values of the compounds exported from CODESSA, as well as the data sets of 4 nonlinear descriptors selected through the mutual information method.
